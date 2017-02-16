@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My FristApp</string>
     <string name="txtTitle">ป้ายจราจร</string>>
+    <string name="moreInto">ข้อมุลเพิ่มเติม</string>
 </resources>
